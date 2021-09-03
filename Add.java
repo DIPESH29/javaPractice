@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//this is a java method for add  
  class Add{
 
 public static void main(String[] args)
